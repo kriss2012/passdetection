@@ -1,0 +1,6 @@
+tensorflow==2.12.0
+pandas
+numpy
+scikit-learn
+streamlit
+# pickle5 removed: not needed on modern Python (use stdlib pickle)
